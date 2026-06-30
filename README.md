@@ -12,8 +12,6 @@ Most of my engineering history lives in private corporate codebases — what's o
 
 🚀 **[AIAssist-JobSearch](https://github.com/ravitejadureddy/AIAssist-JobSearch)** — Production-ready AI job search pipeline. Extensively-enhanced fork of [santifer/career-ops](https://github.com/santifer/career-ops) with a live SSE dashboard, 5-axis Claude-Haiku semantic CV validator, resilient Playwright fill agent, and launchd-driven 24/7 automation. Natural extension of the Claude Code / LLM-agent integration work I did at Innovaccer — applying agent-orchestration thinking to a different domain.
 
-📊 **[StockPredictions](https://github.com/ravitejadureddy/StockPredictions)** — LSTM time-series stock-price prediction (TensorFlow Keras + yfinance). Modular pipeline: data fetcher → transformer → model trainer → evaluator. Personal exploration of deep-learning fundamentals.
-
 🧪 **[Projects](https://github.com/ravitejadureddy/Projects)** — Four end-to-end ML projects from earlier hackathon and personal work: **Big Mart Sales · Corporate Crisis Risk · LTFS Loan Applications · Loan Prediction**. Stack: scikit-learn, PyCaret, TensorFlow.
 
 ---
