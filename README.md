@@ -34,15 +34,14 @@ Most of my engineering history lives in private corporate codebases — what's o
 ### Background
 
 - 🎓 **MS Business Analytics and Information Systems** — University of South Florida (Aug 2018 – Dec 2019)
-- 🎓 **BE Electronics and Communication Engineering** — Osmania University (Aug 2012 – Jun 201
-- 📜 **AWS Certified Solutions Architect Associate** (SAA-C02)
+- 🎓 **BE Electronics and Communication Engineering** — Osmania University (Aug 2012 – Jun 2016)
 
 ---
 
 ### Currently working on
 
 - AI agents that survive real-world production constraints — ATS quirks, rate limits, race conditions, edge cases
-- Snowflake / dbt / Airflow patterns for healthcare-scale ingestion (5M+ records/day per custo
+- Snowflake / dbt / Airflow patterns for healthcare-scale ingestion (5M+ records/day per customer)
 - Building tools I actually want to use daily, not toys
 
 ---
