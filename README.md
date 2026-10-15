@@ -48,4 +48,4 @@ Most of my engineering history lives in private corporate codebases — what's o
 
 ### Reach out
 
-📧 [raviteja.dureddy@gmail.com](mailto:raviteja.dureddy@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/ravi-teja-d-9b80a6163/)
+🔗 [LinkedIn](https://www.linkedin.com/in/ravi-teja-d-9b80a6163/)
